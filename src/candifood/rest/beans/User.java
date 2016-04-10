@@ -104,6 +104,7 @@ public class User implements Serializable  {
 
 	public void setStatus(String status) {
 		this.status = status;
+
 	}
 	
 	public Date getDate() {
