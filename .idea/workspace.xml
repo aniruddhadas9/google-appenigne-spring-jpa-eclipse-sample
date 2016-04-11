@@ -2,36 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a46c10e1-5885-4416-85dd-a46b2eec6e0c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/.settings/com.google.appengine.eclipse.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/.settings/com.google.gdt.eclipse.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/src/META-INF/jdoconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/src/META-INF/persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/src/com/candifood/rest/April10Servlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/src/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/appengine-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/appengine-api-1.0-sdk-1.9.34.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/appengine-api-labs.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/appengine-endpoints-deps.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/appengine-endpoints.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/appengine-jsr107cache-1.9.34.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/asm-4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/datanucleus-api-jdo-3.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/datanucleus-api-jpa-3.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/datanucleus-appengine-2.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/datanucleus-core-3.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/geronimo-jpa_2.0_spec-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/jdo-api-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/jsr107cache-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/lib/jta-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/logging.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/april10/war/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="google-appenigne-spring-jpa-eclipse-sample.iws" />
@@ -596,7 +566,7 @@
       <option name="presentableId" value="Default" />
       <updated>1460319556512</updated>
       <workItem from="1460319560721" duration="2522000" />
-      <workItem from="1460342356086" duration="348000" />
+      <workItem from="1460342356086" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="added few more classes">
       <created>1460319668872</created>
@@ -626,11 +596,18 @@
       <option name="project" value="LOCAL" />
       <updated>1460342566289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="deleted extra files">
+      <created>1460342723892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1460342723892</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2870000" />
+    <option name="totallyTimeSpent" value="2907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -678,7 +655,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added few more classes" />
     <MESSAGE value="added intellij configuration. not mandatory. just added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added intellij configuration. not mandatory. just added" />
+    <MESSAGE value="deleted extra files" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted extra files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
